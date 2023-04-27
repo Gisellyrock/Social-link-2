@@ -7,7 +7,7 @@
 <h1 align="center"> NinasTech </h1>
 
 # Social Link
-- Neste projeto usamos HTML e CSS, usando a técnica incrível de Glassmorphism.
+- Neste projeto usamos HTML e CSS, a fim de reproduzir essa técnica incrível chamada de Glassmorphism.
 
 
 # Deploy
