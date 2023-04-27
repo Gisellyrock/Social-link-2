@@ -6,8 +6,8 @@
 
 <h1 align="center"> NinasTech </h1>
 
-# Portfólio
-- Neste projeto aprofundo meu conhecimento em responsividade e em UI/UX Design.
+# Social Link
+- Neste projeto usamos HTML e CSS, usando a técnica incrível de Glassmorphism.
 
 
 # Deploy
