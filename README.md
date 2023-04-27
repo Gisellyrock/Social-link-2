@@ -1,7 +1,8 @@
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/104739434/228394762-4d8edfea-7300-4348-ac59-1386ac6f66f8.png"/>
+https://user-images.githubusercontent.com/104739434/234849663-a2f8f7a3-10a4-47fd-af71-0403f198b389.jpg
+
 </p>
-<h1 align="center"> Suupeer Girl </h1>
+<h1 align="center"> NinasTech </h1>
 
 # Portfólio
 - Neste projeto aprofundo meu conhecimento em responsividade e em UI/UX Design.
