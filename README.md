@@ -20,7 +20,7 @@ https://monumental-lokum-a72417.netlify.app/
 
 
 
-# Video Desktop
+# Video
 https://user-images.githubusercontent.com/104739434/234849209-734445bf-fc84-49e3-b172-5d28ad8ffbf1.mov
 
 
