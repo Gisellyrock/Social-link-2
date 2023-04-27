@@ -1,7 +1,8 @@
  <p align="center">
-https://user-images.githubusercontent.com/104739434/234849663-a2f8f7a3-10a4-47fd-af71-0403f198b389.jpg
+
 
 </p>
+
 <h1 align="center"> NinasTech </h1>
 
 # Portfólio
